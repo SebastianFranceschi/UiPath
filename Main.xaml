@@ -1050,7 +1050,7 @@
                   <x:Boolean x:Key="IsPinned">False</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="870,59" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;ALGO 2222&quot;]" />
+              <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="870,59" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;ALGO 1111122222&quot;]" />
               <ui:Comment sap:VirtualizedContainerService.HintSize="870,55" sap2010:WorkflowViewState.IdRef="Comment_5" Text="Another comment (juanma cat)" />
               <ui:Comment sap:VirtualizedContainerService.HintSize="870,55" sap2010:WorkflowViewState.IdRef="Comment_4" Text="Juanma gato." />
               <ui:Comment sap:VirtualizedContainerService.HintSize="870,55" sap2010:WorkflowViewState.IdRef="Comment_3" Text="Comment testing Github" />
